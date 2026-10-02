@@ -1,4 +1,5 @@
-🧠 D.R.O.N.A (Dynamic Responsive Optimized Neural Assistant)
+🧠 D.R.O.N.A
+(Dynamic Responsive Optimized Neural Assistant)
 
 D.R.O.N.A is not just an AI assistant — it's your personal tech mentor. Inspired by the legendary teacher Dronacharya, this intelligent system is designed to guide students, developers, and creators through the chaotic journey of learning, building, and innovating.
 
